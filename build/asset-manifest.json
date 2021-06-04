@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.592f53a7.chunk.css",
-    "main.js": "/static/js/main.472a2b6a.chunk.js",
-    "main.js.map": "/static/js/main.472a2b6a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
-    "static/js/2.0cb0e651.chunk.js": "/static/js/2.0cb0e651.chunk.js",
-    "static/js/2.0cb0e651.chunk.js.map": "/static/js/2.0cb0e651.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.592f53a7.chunk.css.map": "/static/css/main.592f53a7.chunk.css.map",
-    "static/js/2.0cb0e651.chunk.js.LICENSE.txt": "/static/js/2.0cb0e651.chunk.js.LICENSE.txt"
+    "main.css": "/react-addBook/static/css/main.592f53a7.chunk.css",
+    "main.js": "/react-addBook/static/js/main.472a2b6a.chunk.js",
+    "main.js.map": "/react-addBook/static/js/main.472a2b6a.chunk.js.map",
+    "runtime-main.js": "/react-addBook/static/js/runtime-main.565a6454.js",
+    "runtime-main.js.map": "/react-addBook/static/js/runtime-main.565a6454.js.map",
+    "static/js/2.0cb0e651.chunk.js": "/react-addBook/static/js/2.0cb0e651.chunk.js",
+    "static/js/2.0cb0e651.chunk.js.map": "/react-addBook/static/js/2.0cb0e651.chunk.js.map",
+    "index.html": "/react-addBook/index.html",
+    "static/css/main.592f53a7.chunk.css.map": "/react-addBook/static/css/main.592f53a7.chunk.css.map",
+    "static/js/2.0cb0e651.chunk.js.LICENSE.txt": "/react-addBook/static/js/2.0cb0e651.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a06e69b5.js",
+    "static/js/runtime-main.565a6454.js",
     "static/js/2.0cb0e651.chunk.js",
     "static/css/main.592f53a7.chunk.css",
     "static/js/main.472a2b6a.chunk.js"
